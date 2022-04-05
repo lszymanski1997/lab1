@@ -15,7 +15,7 @@ public class zad1 {
         for(String a:diabetes[number]){
             suma = suma + (Float.parseFloat(a) - srednia) * (Float.parseFloat(a) - srednia);
         }
-        wynik =
+        wynik = suma/768;
 
 
         return wynik;
@@ -177,7 +177,6 @@ public class zad1 {
 
         float odch1, odch2, odch3, odch4, odch5, odch6, odch7, odch8;
 
-        for(String diabetes)
 
 
 
